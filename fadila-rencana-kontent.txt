@@ -1,4 +1,3 @@
 Rencara Membuat web untuk portofolio
 Belajar tentang git untuk membuat website
 Belajar ReactJs
-Bejalar Vue
